@@ -1,0 +1,1 @@
+This repo uses the pcpartpicker API by JonathanVusich, and analyses the current memory market. DDR5 RAM isn't available to view so i set to veiw the DDR4. I show the average, most and least expensive price per GB of RAM in the csv file.
